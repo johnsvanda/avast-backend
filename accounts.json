@@ -1,37 +1,14 @@
 [
   {
-    "name": "jan",
-    "email": "a@a",
+    "name": "Jan Švanda",
     "password": "weNxdt37s4j5KMu",
     "gender": "Male",
-    "created": 161771294
+    "created": 1617729373242
   },
   {
-    "name": "asef",
-    "email": "aefae@sefse",
-    "password": "weNxdt37s4j5KMu",
-    "gender": "Male",
-    "created": 16177135
-  },
-  {
-    "name": "asrg",
-    "email": "aefae@sefse",
-    "password": "weNxdt37s4j5KMu",
-    "gender": "Male",
-    "created": 1617713638224
-  },
-  {
-    "name": "awfawef",
-    "email": "aefae@sefse",
-    "password": "weNxdt37s4j5KMu",
-    "gender": "Male",
-    "created": 1617713823131
-  },
-  {
-    "name": "afeaf",
-    "email": "aefae@sefse",
-    "password": "weNxdt37s4j5KMu",
+    "name": "Petra",
+    "password": "eafeafae",
     "gender": "Female",
-    "created": 1617714453648
+    "created": 1617729526537
   }
 ]
